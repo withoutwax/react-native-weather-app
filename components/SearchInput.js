@@ -4,7 +4,7 @@ import { StyleSheet, TextInput, View } from 'react-native';
 export default class SearchInput extends React.Component {
   render() {
     return(
-      <View>
+      <View style={styles.container}>
         <TextInput
           autoCorrect={false}
           placeholder={this.props.placeholder}
