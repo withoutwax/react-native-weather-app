@@ -2,7 +2,7 @@
 
 These projects are created by following the tutorials provided by [FullStack React](https://www.fullstackreact.com).  
 
-
+---
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
