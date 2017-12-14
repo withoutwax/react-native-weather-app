@@ -1,6 +1,6 @@
 # React Native project
 
-These projects are created by following the tutorials provided by [FullStack React](https://www.fullstackreact.com).  
+**Disclaimer:** These projects are created by following the tutorials provided by [FullStack React](https://www.fullstackreact.com).  
 
 ---
 
